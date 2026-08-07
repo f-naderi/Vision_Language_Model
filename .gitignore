@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+Flickr8k/
+archive.zip
+archive/
+data/
+mnist_data/
+models/
+outputs/checkpoints/
+venv/
