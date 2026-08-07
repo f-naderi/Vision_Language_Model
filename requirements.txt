@@ -1,0 +1,7 @@
+torch
+transformers
+numpy
+matplotlib
+scikit-learn
+tqdm
+Pillow
