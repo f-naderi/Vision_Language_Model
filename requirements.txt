@@ -1,7 +1,10 @@
 torch
+torchvision
 transformers
 numpy
 matplotlib
 scikit-learn
 tqdm
 Pillow
+ipython
+jupyter
